@@ -1,3 +1,4 @@
 filterpy
 seaborn
 jupyter
+sympy
