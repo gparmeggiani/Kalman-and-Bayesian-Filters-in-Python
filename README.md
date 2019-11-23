@@ -1,3 +1,9 @@
+***NOTE***
+This is a clone of Roger Labbe's repository available at https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python (commit #e84f8018366438c87189ccad40a56bf506f81ffc)
+Unfortunately, that project seems abandoned by the author since he is no longer accepting PRs and discussing issues.
+
+I'll add my contributions (and personal notes) here with the hope of being able to merge whatever relevant in the original project's repo.
+
 # [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 
