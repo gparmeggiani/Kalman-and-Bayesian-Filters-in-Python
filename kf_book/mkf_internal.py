@@ -185,7 +185,7 @@ def show_x_error_chart(count):
 
     if count == 3:
 
-        stats.plot_covariance_ellipse ((5,5), ellipse=e3, variance=sigma,
+        stats.plot_covariance_ellipse ((0,0), ellipse=e3, variance=sigma,
                                        edgecolor='r')
 
     if count == 4:
@@ -196,7 +196,7 @@ def show_x_error_chart(count):
         stats.plot_covariance_ellipse ((5,5), ellipse=e, variance=sigma,
                                        alpha=0.25)
 
-        stats.plot_covariance_ellipse ((5,5), ellipse=e3, variance=sigma,
+        stats.plot_covariance_ellipse ((0,0), ellipse=e3, variance=sigma,
                                        edgecolor='r', alpha=0.25)
         stats.plot_covariance_ellipse (m4[:,0], ellipse=e4, variance=sigma)
         plt.ylim((-9, 16))
